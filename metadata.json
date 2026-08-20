@@ -1,0 +1,7 @@
+{
+  "name": "UltraPlayer",
+  "description": "Professional offline video player engineered for high-resolution video playback up to 4K, 8K, and 16K metadata detection with intelligent decoding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
